@@ -73,4 +73,3 @@ Ce projet a été réalisé dans le cadre de la formation Dyma, couvrant les con
 ![Aperçu du blog](/public/assets/image.png)
 
 ---
-Développé avec ❤️ pendant ma formation sur Dyma
