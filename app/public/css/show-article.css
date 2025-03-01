@@ -17,6 +17,7 @@
   }
   
   .article-container {
+    width: 100%;
     padding-bottom: 10rem;
   }
   
@@ -28,6 +29,18 @@
     margin-bottom: 1rem;
     display: block;
   }
+
+  .article-author {
+    text-align: right;
+    justify-content: flex-end;
+  
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+
+
 
   .form-actions {
     display: flex;
